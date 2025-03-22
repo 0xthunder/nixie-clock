@@ -1,22 +1,22 @@
 @font-face {
   font-family:BONX-Bold;
-  src:url(/assets/BONX-Bold-76c8451d.otf) format("opentype")
+  src:url('./assets/BONX-Bold-76c8451d.otf') format("opentype")
 }
 @font-face {
   font-family:BONX-Medium;
-  src:url(/assets/BONX-Medium-2aa5fb1e.otf) format("opentype")
+  src:url('./assets/BONX-Medium-2aa5fb1e.otf') format("opentype")
 }
 @font-face {
   font-family:BONX-AltMedium;
-  src:url(/assets/BONX-AltMedium-9047fddb.otf) format("opentype")
+  src:url('./assets/BONX-AltMedium-9047fddb.otf') format("opentype")
 }
 @font-face {
   font-family:BONX-Silhouette;
-  src:url(/assets/BONX-Silhouette-99324bfd.otf) format("opentype")
+  src:url('./assets/BONX-Silhouette-99324bfd.otf') format("opentype")
 }
 @font-face {
   font-family:BONX-Frame;
-  src:url(/assets/BONX-Frame-7bfbc64f.otf) format("opentype")
+  src:url('./assets/BONX-Frame-7bfbc64f.otf') format("opentype")
 }
 
 .nixie_clock {
