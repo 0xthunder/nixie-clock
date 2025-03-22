@@ -1,6 +1,6 @@
 # Nixie Clock Web Display  
 
-A cool nixie clock built with HTML, CSS, and some JS.
+A cool nixie clock that you can add to your website. It was built with HTML, CSS, and some JS.
 Can be viewed [here.](https://0xthunder.github.io/nixie-clock)  
 
 # Screenshot:
